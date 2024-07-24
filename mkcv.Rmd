@@ -1,0 +1,118 @@
+---
+title: ""
+author: "Makenzie Kerneckel"
+date: "2024-07-23"
+output: pdf_document
+mainfont: Times New Roman
+spacing: 1.15
+header-includes:
+   - \usepackage{geometry}
+   - \geometry{margin=1in}
+   - \usepackage{parskip}
+   - \usepackage{xcolor}
+   - \definecolor{red}{RGB}{164,22,35}
+   - \usepackage{hyperref}
+   - \hypersetup{colorlinks=true, linkcolor=red, urlcolor=red}
+   - \usepackage{multicol}
+   - \setlength{\columnsep}{2cm}
+---
+
+\begin{multicols}{2}
+\begin{flushleft}
+{\Huge \textmd{Makenzie Kerneckel}}\\
+\vspace{0.5cm} % Adjust the amount of space here
+University of Pennsylvania\\
+Department of Political Science\\
+The Ronald O. Perelman Center\\
+for Political Science and Economics\\
+133 S.36th Street\\
+Philadelphia, PA 19104\\
+\end{flushleft}
+
+\columnbreak
+
+\columnbreak
+
+\begin{flushright}
+\parbox{\linewidth}{\vspace{1.08cm} % Add the space here to align with the left side
+Email: \href{mailto:mkenziek@sas.upenn.edu}{\textcolor{red}{mkenziek@sas.upenn.edu}}\\
+Website: \href{https://mkenziek.github.io/makenziekerneckel/}{\textcolor{red}{https://mkenziek.github.io/makenziekerneckel/}}\\}
+\end{flushright}
+
+\end{multicols}
+
+## Education
+
+|  B.A. in Political Science, University of Pennsylvania (In Progress)
+|     Minor: Survey Research & Data Analytics
+|     GPA: 3.97/4.0
+
+
+## Research Interests 
+
+Public Opinion; Elections; Survey Research; Religion and Politics
+
+## Research Experience 
+
+**Research Assistant**, Examining the Effect of Climate and Faith-based Text Messaging Campaigns
+
+August 2023 – May 2024
+
+Dr. Parrish Bergquist, Assistant Professor of Political Science, University of Pennsylvania
+
+- Updated and ran regression analyses of two experiments examining the effects of SMS-based get-out-the-vote campaigns on voter turnout in the 2020 general and 2022 midterm elections in the United States.
+- Created descriptive figures and LaTex tables in R visualizing experimental results, descriptive statistics, and statistical balance between the 2020 and 2022 voter samples. 
+- Implemented causal random forest and regression tree techniques to examine heterogeneous treatment effects in 2020 and 2022 voter samples. 
+- Summarized literature on applications of machine learning approaches for causal inference, identified well-applied papers, and located helpful replication code.
+
+**Research Assistant**, Fine-tuning Election-Night Projection Models for NBC News
+
+June 2024 – Present
+
+Dr. Stephen Pettigrew, Penn Program on Opinion Research and Election Studies PORES Director of Data Sciences and Senior Analyst for NBC Decision Desk, University of Pennsylvania
+
+-	Utilized QGIS to create 2024 election maps for 50+ counties in Georgia, Pennsylvania, Ohio, and Virginia. 
+-	Collected and assembled a comprehensive database of historical election results in preparation for the 2024 general election.
+- Tested a robust data infrastructure for real-time collection of election results on Election Night in November 2024.
+- Employed web scraping and APIs to collect raw data from county website, ensuring data accuracy and completeness.
+- Developed and implemented automated R scripts to streamline data collection and processing workflows.
+
+
+## Professional Experience
+
+**Intern**, NBC Decision Desk, Philadelphia, PA
+
+March 2023 - Present 
+
+- Served on the NBC Decision Desk for the presidential primary season in spring and summer 2024, participating in the collection of data used for live election night modeling and projection by senior analysts.
+
+**Edward L. Protz Historic Preservation Intern**, Galveston Historical Foundation, Galveston, TX
+
+May - June 2023
+
+- Collected and cleaned real estate data from physical files using Microsoft Excel, ArcGIS, and R to analyze trends in local historic preservation dating back to 1973.  
+- Developed a database using ArcGIS Online Story Maps on 86 historic properties, visualizing damage, property type, and rehabilitation efforts.  
+
+
+## Activities 
+
+**Data Desk Reporter**,The Daily Pennsylvanian, Philadelphia, PA
+
+January - December 2023
+
+- Authored monthly originally reported articles on data topics for publication on TheDP.com for an audience of 46,000+ students and Penn employees. 
+- Sourced and created data sets on campus issues, analyzed them using R and datawrapper. 
+
+
+## Honors and Fellowships
+
+Dean’s List, University of Pennsylvania, 2023
+
+Penn Program on Opinion Research and Election Studies Fellow, 2023-2024
+
+## Skills
+
+Programming: R, QGis (intermediate), ArcGIS (intermediate), Python (beginner), Git (basic)
+
+
+
